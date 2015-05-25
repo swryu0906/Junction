@@ -51,3 +51,14 @@ html, body {
 .supporting img {
 	width: 120px;
 }
+
+/* Join */
+.join {
+	margin-top: 50px;
+}
+
+.join .btn {
+	background-color: rgba(0,255,188,.5);
+	padding: 5px 50px;
+	color: #fff;
+}
