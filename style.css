@@ -7,6 +7,7 @@ html, body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	color: #fff;
 }
 
 .container {
@@ -45,4 +46,8 @@ html, body {
 .supporting {
 	margin-top: 40px;
 	text-shadow: 0 2px 3px rgba(0,0,0,.4);
+}
+
+.supporting img {
+	width: 120px;
 }
